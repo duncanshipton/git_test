@@ -1,1 +1,2 @@
 "Hello World"
+test the git config command to allow longer commit messages
